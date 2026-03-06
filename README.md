@@ -10,4 +10,4 @@
 06/03/2026
 1. English test EFSET: reading - A1, audio - A1, writing - B1, speacking - B1.
 2. Git
-3. Go (Introduction, variables, fmt package)
+3. Go (Introduction, variables, fmt package, conditionals)
